@@ -6,9 +6,8 @@
 * [Html changes](#html-changes)
 * [CSS changes](#css-changes)
 * [Link to site](#link-to-site)
-* [Screenshot](#screenshot-of-landing-page)
+* [Screenshot](#screenshots-of-command-line)
 * [Credits](#credits)
-* [Some help from the web](#some-help-from-the-web)
 * [License](#license)
 
 ## Overview
@@ -20,13 +19,19 @@ You will need to install env, express, sequelize, mysql2, and node (if not alrea
 https://drive.google.com/file/d/13bgWG6kd_Pr2rSKj5gCS9Pa3SjYO9nyp/preview
 https://drive.google.com/file/d/13bgWG6kd_Pr2rSKj5gCS9Pa3SjYO9nyp/view
 
-## Screenshot
+## Screenshots of command line
 ![alt_text]
-(https://)
+Screenshot #1
+(https://github.com/UPye/ECommerce/blob/main/imgs/Site1.png)
+
+Screenshot #2
+(https://github.com/UPye/ECommerce/blob/main/imgs/Site2.png)
+
+Screenshot #3
+(https://github.com/UPye/ECommerce/blob/main/imgs/Site3.png)
 
 ## Credits
-I want to thank UCF coding bootcamp for the knowledge gained this week to construct this database.
-## Some help from the web
+I want to thank UCF coding bootcamp for the knowledge gained this week to construct this database. It was very well put together and easy to understand!
 ## License
 Copyright (c) 2012-2020 Scott Chacon and others
 Permission is hereby granted, free of charge, to any person obtaining
