@@ -20,14 +20,11 @@ https://drive.google.com/file/d/13bgWG6kd_Pr2rSKj5gCS9Pa3SjYO9nyp/preview
 https://drive.google.com/file/d/13bgWG6kd_Pr2rSKj5gCS9Pa3SjYO9nyp/view
 
 ## Screenshots of command line
-![alt_text]
-(https://github.com/UPye/ECommerce/blob/main/imgs/Site1.png)
+![alt_text](https://github.com/UPye/ECommerce/blob/main/imgs/Site1.png)
 
-![alt_text]
-(https://github.com/UPye/ECommerce/blob/main/imgs/Site2.png)
+![alt_text](https://github.com/UPye/ECommerce/blob/main/imgs/Site2.png)
 
-![alt_text]
-(https://github.com/UPye/ECommerce/blob/main/imgs/Site3.png)
+![alt_text](https://github.com/UPye/ECommerce/blob/main/imgs/Site3.png)
 
 ## Credits
 I want to thank UCF coding bootcamp for the knowledge gained this week to construct this database. It was very well put together and easy to understand!
