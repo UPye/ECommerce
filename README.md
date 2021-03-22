@@ -20,14 +20,16 @@ https://drive.google.com/file/d/13bgWG6kd_Pr2rSKj5gCS9Pa3SjYO9nyp/preview
 https://drive.google.com/file/d/13bgWG6kd_Pr2rSKj5gCS9Pa3SjYO9nyp/view
 
 ## Screenshots of command line
-![alt_text]
 Screenshot #1
+![alt_text]
 (https://github.com/UPye/ECommerce/blob/main/imgs/Site1.png)
 
 Screenshot #2
+![alt_text]
 (https://github.com/UPye/ECommerce/blob/main/imgs/Site2.png)
 
 Screenshot #3
+![alt_text]
 (https://github.com/UPye/ECommerce/blob/main/imgs/Site3.png)
 
 ## Credits
