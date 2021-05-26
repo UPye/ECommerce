@@ -7,11 +7,13 @@
 * [CSS changes](#css-changes)
 * [Link to site](#link-to-site)
 * [Screenshot](#screenshots-of-command-line)
+* [Future Developments](#future-development)
 * [Credits](#credits)
 * [License](#license)
 
 ## Overview
 This is a first look at a completed Node.JS file by me. With this you are able to develop a front-end site to this database system. It will save information regarding products and their tags, categories, and product tags. 
+
 ## Installation
 You will need to install env, express, sequelize, mysql2, and node (if not already downloaded). Install these packages to run this app.
 
@@ -26,8 +28,12 @@ https://drive.google.com/file/d/13bgWG6kd_Pr2rSKj5gCS9Pa3SjYO9nyp/view
 
 ![alt_text](https://github.com/UPye/ECommerce/blob/main/imgs/Site3.png)
 
+## Future Developments
+I will love to expand on this e-commerce server built, so that more product information may be included to expand on the ever growing e-commerce market. I would also love to include front-end code, so people may use it as a starter base for building their very own e-commerce store. Lastly, I would like to deploy this application to Heroku.
+
 ## Credits
 I want to thank UCF coding bootcamp for the knowledge gained this week to construct this database. It was very well put together and easy to understand!
+
 ## License
 Copyright (c) 2012-2020 Scott Chacon and others
 Permission is hereby granted, free of charge, to any person obtaining
