@@ -29,7 +29,7 @@ https://drive.google.com/file/d/13bgWG6kd_Pr2rSKj5gCS9Pa3SjYO9nyp/view
 ![alt_text](https://github.com/UPye/ECommerce/blob/main/imgs/Site3.png)
 
 ## Future Developments
-I would love to expand on this e-commerce server built, so that more product information may be included to expand on the ever growing e-commerce market. I would also love to include front-end code, so people may use it as a starter base for building their very own e-commerce store. Lastly, I would like to deploy this application to Heroku.
+I would love to expand on this e-commerce server built, so that more product information may be included to expand on the ever growing e-commerce market. I would also love to include front-end code, so it may become a community of entreprenuers supporting one another's growth. Lastly, I would like to deploy this application to Heroku.
 
 ## Credits
 I want to thank UCF coding bootcamp for the knowledge gained this week to construct this database. It was very well put together and easy to understand!
